@@ -1,5 +1,3 @@
-# SQL-Exercise-Solutions
-
 ## SELECT (learning stage)
 
 1. Condition – Find the model number, speed and hard drive capacity for all the PCs with prices below $500.
